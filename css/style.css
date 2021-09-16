@@ -1,0 +1,193 @@
+.wrapper{
+    display:flex;
+    flex-direction:column;
+}
+
+body{
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+}
+
+.head1{
+    font-size:100px;
+    text-align: center;
+    background-color:#AE355D;
+}
+
+.head2{
+    font-size:50px;
+    font-weight:700;
+    text-align: center;
+}
+
+/*June*/
+.june{
+    display:flex;
+    justify-content:space-between;
+    align-items: center;
+    background-color:#6cad40;
+}
+
+.june_img{
+    height:90%;
+    width:90%;
+    margin:30px;
+}
+
+.june_text{
+    font-size:30px;
+    margin:20px;
+}
+
+/*July*/
+.july{
+    display:flex;
+    justify-content:flex-start;
+    align-items: center;
+    background-color:#f2e749;
+}
+
+.july_img{
+    height:70%;
+    width:70%;
+    margin:30px;
+}
+
+.july_text{
+    font-size:30px;
+    margin:20px;
+}
+
+/*August*/
+.august{
+    display:flex;
+    flex-direction: column;
+}
+.august_1{
+    display:flex;
+    flex-direction:flex-end;
+    align-items: center;
+    background-color: #EB6AA4;
+}
+.august_img{
+    height:40%;
+    width:40%;
+    margin:30px;
+}
+.august_text{
+    font-size:30px;
+    margin:20px;
+}
+.august_2{
+    display:flex;
+    justify-content: space-between;
+    align-items:flex-end;
+    background-color:blanchedalmond;
+}
+.august_21{
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+}
+.august_img1{
+    height:30%;
+    width:30%;
+    margin:30px;
+}
+.august_img2{
+    height:60%;
+    width:60%;
+    margin:30px;
+}
+.august_3{
+    display:flex;
+    align-items: center;
+    background-color: #6cad40;
+}
+.august_img3{
+    height:90%;
+    width:90%;
+    margin:30px;
+}
+
+/*Footer*/
+.footer_text{
+    margin:10px 0px;
+    font-size:35px;
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
